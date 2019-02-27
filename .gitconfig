@@ -1,6 +1,6 @@
 [user]
-  name = Ben Roose
-  email = ben.roose@wichita.edu
+  name = Brody Sullivan
+  email = brody.sullivan@wichita.edu
 [core]
   editor = emacs
   excludesfile = ~/.gitignore
